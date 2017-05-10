@@ -40,7 +40,7 @@ $ yarn start                    # Compiles the app and opens it in a browser wit
 
 ![publish](public/images/yarnStart.gif)
 
-Check out the onederful [Demo](http://berkeley-onederful-demo.s3-website-us-west-2.amazonaws.com/)
+Check out the onederful quickstart [Demo](http://onederful-quickstart.s3-website-us-west-2.amazonaws.com/)
 
 
 ### This boilerplate is a modified version of React Static Boilerplate. For more more advanced setup and detailed info on the config go to:
