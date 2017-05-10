@@ -1,0 +1,19 @@
+[
+  {
+    "path": "/",
+    "page": "./home",
+    "chunk": "main"
+  },
+  {
+    "path": "/yelp-clone-example",
+    "page": "./yelp-clone-example"
+  },
+  {
+    "path": "/twitter-watson-example",
+    "page": "./twitter-watson-example"
+  },
+  {
+    "path": "/tasks/:status(pending|completed)?",
+    "page": "./home"
+  }
+]

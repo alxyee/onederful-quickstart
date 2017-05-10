@@ -1,0 +1,50 @@
+/**
+ * React Static Boilerplate
+ * https://github.com/koistya/react-static-boilerplate
+ *
+ * Copyright © 2015-2016 Konstantin Tarkus (@koistya)
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.txt file in the root directory of this source tree.
+ */
+
+.yelpCard{
+  display: flex;
+  padding: 18px 0;
+  border-bottom: 1px solid rgba(74,74,74, 0.3);
+  max-width:400px;
+}
+.yelpContent > h5{
+  font-size:16px;
+  margin-bottom:8px;
+  margin-top: 0;
+}
+.yelpContent > p{
+  margin: 0;
+}
+.yelpLogo{
+  width:100px;
+  height:70px;
+}
+.stars{
+  height:20px;
+  width:130px;
+  padding:0 10px 0 0;
+}
+
+.yelpContent{
+  display: flex;
+  flex-direction: column;
+}
+.yelpImage{
+  height:90px;
+  width:90px;
+  padding: 0 18px;
+}
+.inline{
+  display: flex;
+  margin: 5px 0;
+}
+.reviewCount{
+  color: rgb(102,102,102);
+}
