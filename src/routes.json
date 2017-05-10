@@ -9,10 +9,6 @@
     "page": "./yelp-clone-example"
   },
   {
-    "path": "/twitter-watson-example",
-    "page": "./twitter-watson-example"
-  },
-  {
     "path": "/tasks/:status(pending|completed)?",
     "page": "./home"
   }
