@@ -8,6 +8,7 @@
     "path": "/yelp-clone-example",
     "page": "./yelp-clone-example"
   },
+
   {
     "path": "/tasks/:status(pending|completed)?",
     "page": "./home"
